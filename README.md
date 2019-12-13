@@ -1,6 +1,6 @@
 # argosscripts
 
-Argos ProtonVPN Extention
+Argos ProtonVPN Plugin
 
 Install Argos https://extensions.gnome.org/extension/1176/argos/ 
 https://github.com/p-e-w/argos
